@@ -20,7 +20,6 @@ As shown below, the [index.html](https://github.com/myaakoub93/Mapping_Earthquak
 
 The user would have to save the token key in *config.example.js* and rename the file *config.js*: <p align="center"><img src="https://user-images.githubusercontent.com/68669675/97131416-1f7bf680-1712-11eb-8e6e-b3d93007be50.png"></p>
 <br>
-To open the *index.html* file, open the command line, navigate to the main folder and on the command line, enter `python -m http.server`.
 
 ### Link to Interactive Maps webpage
 The deployed webpage is accessible at [https://myaakoub93.github.io/Mapping_Earthquakes](https://myaakoub93.github.io/Mapping_Earthquakes).
